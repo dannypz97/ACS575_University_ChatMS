@@ -1,3 +1,5 @@
+bcrypt
 mysqlclient
+mysql-connector-python
 sqlalchemy
 streamlit
