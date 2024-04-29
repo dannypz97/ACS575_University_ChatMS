@@ -2,6 +2,7 @@ import bcrypt
 from pymysql import cursors
 import streamlit as st
 import uuid
+from streamlit_cookies_controller import CookieController
 from chatbot import config
 
 from db.conn import get_conn
@@ -24,7 +25,7 @@ def login():
         cursor = conn.cursor(cursors.DictCursor)
         cursor.execute("SELECT * FROM users WHERE email = (%s)", (email))
         user = cursor.fetchone()
-        print("USER: ", user, "\n\n\n")
+
         if user:
             is_valid = bcrypt.checkpw(
                 password=bytes(password, encoding='utf-8'),
@@ -36,11 +37,15 @@ def login():
                 st.session_state.is_logged_in = True
 
                 bot_config = config.get_bot_config(user['university_id'])
-                print(bot_config)
 
                 if bot_config:
                     st.session_state.bot_config = bot_config
                 return
 
         st.error('Invalid credentials!!', icon="🚨")
+
+def logout():
+    for key in st.session_state.keys():
+        del st.session_state[key]
+
 

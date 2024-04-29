@@ -1,5 +1,6 @@
 bcrypt
 dill
+extra_streamlit_components
 faiss-cpu
 google-generativeai
 langchain==0.0.284

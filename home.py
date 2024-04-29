@@ -1,13 +1,13 @@
-from user import login
+from user import session
 import streamlit as st
 
 st.header('University Chatbot Data Management System', divider='gray')
 
-if not login.is_logged_in():
+if not session.is_logged_in():
     st.text('Login to get started.')
-    login.login()
+    session.login()
 
-    if login.is_logged_in():
+    if session.is_logged_in():
         st.switch_page(".\\pages\\chat.py")
 
 
