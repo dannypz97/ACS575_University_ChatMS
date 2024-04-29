@@ -4,7 +4,7 @@ from pip._vendor import tomli
 import bcrypt
 
 # user-provided password that is to be verified during login time...
-user_password = 'root'
+user_password = 'roosaddt'
 
 with open("../.streamlit/secrets.toml", "rb") as f:
     data = tomli.load(f)

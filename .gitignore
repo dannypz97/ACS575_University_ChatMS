@@ -161,3 +161,7 @@ cython_debug/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Resources
+resources/train_data/
+resources/*.dill

@@ -1,7 +1,7 @@
 import bcrypt
 
 # Password to Hash
-original_password = b'root'
+original_password = b'static123'
 
 # Generating Salt
 salt = bcrypt.gensalt()

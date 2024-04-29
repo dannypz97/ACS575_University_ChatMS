@@ -1,5 +1,12 @@
 bcrypt
+dill
+faiss-cpu
+google-generativeai
+langchain==0.0.284
+langchain_experimental
 mysqlclient
 mysql-connector-python
+python-dotenv
+PyMySQL
 sqlalchemy
 streamlit
