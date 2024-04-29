@@ -6,20 +6,17 @@ from chatbot import palm
 GET_BOT_ID_QUERY = "SELECT LAST_INSERT_ID()"
 
 LOG_TRAIN_ATTEMPT_QUERY = """
-    INSERT INTO chatbots (university_id, name, training_text) VALUES (%s, %s, %s)
+    INSERT INTO chatbots (id, name, training_text) VALUES (%s, %s, %s)
     ON DUPLICATE KEY UPDATE training_text = VALUES(training_text), name = VALUES(name), is_trained = False
 """
 
 MARK_TRAIN_ATTEMPT_QUERY = """
-    UPDATE chatbots  SET is_trained = True WHERE university_id = (%s)
+    UPDATE chatbots  SET is_trained = True WHERE id = (%s)
 """
-def train_attempt(training_text, *, university_id, bot_name):
-    # Using university_id as the bot_id/model_id.
-    bot_id = university_id
-
+def train_attempt(training_text, *, bot_id, bot_name):
     conn = get_conn()
     cursor = conn.cursor(cursors.DictCursor)
-    cursor.execute(LOG_TRAIN_ATTEMPT_QUERY, (university_id, bot_name, training_text))
+    cursor.execute(LOG_TRAIN_ATTEMPT_QUERY, (bot_id, bot_name, training_text))
     # cursor.execute(GET_BOT_ID_QUERY)
     # bot_id = cursor.fetchone()[0]
     conn.commit()

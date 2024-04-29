@@ -19,7 +19,7 @@ if st.session_state.user['is_admin']:
 
     if st.button("Train Chatbot"):
         if training_text:
-            admin.train_attempt(training_text, university_id=st.session_state.user['university_id'], bot_name=bot_name)
+            admin.train_attempt(training_text, bot_id=st.session_state.user['university_id'], bot_name=bot_name)
             st.success("Chatbot training successful!!")
             admin.mark_train_attempt_completed(st.session_state.user['university_id'])
 
