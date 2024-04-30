@@ -163,5 +163,5 @@ cython_debug/
 .streamlit/secrets.toml
 
 # Resources
-resources/train_data/
+# resources/train_data/
 resources/*.dill
