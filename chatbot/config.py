@@ -6,7 +6,7 @@ def get_bot_config(id):
     cursor = conn.cursor(cursors.DictCursor)
 
     cursor.execute(
-        "SELECT id AS bot_id, name as bot_name, is_trained FROM chatbots WHERE id = (%s)",
+        "SELECT id AS bot_id, name as bot_name, training_text, is_trained FROM chatbots WHERE id = (%s)",
         (id)
     )
 
