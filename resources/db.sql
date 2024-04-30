@@ -18,6 +18,12 @@ INSERT INTO universities(name, address, phone, email_domain) VALUES (
     '2101 E Coliseum Blvd, Fort Wayne, IN 46805',
     '(260) 481-6100',
     '@pfw.edu'
+),
+(
+    'Purdue University',
+    '610 Purdue Mall, West Lafayette, IN 47907',
+    '(765) 494-4600',
+    '@purdue.edu'
 );
 
 CREATE TABLE users (
@@ -54,7 +60,43 @@ INSERT INTO users(university_id, name, email, password, is_admin) VALUES (
     'stud1@pfw.edu',
     '$2b$12$OtqXoyvl5RX6xivsrBC.LeTdxSGAukPnVJQXfK9YspaMzuKdpCIHu', #Password: root123
     FALSE
-);
+),
+(
+    1, #verify if ID for PFW in universities table is indeed 1
+    'PFW Student2',
+    'stud2@pfw.edu',
+    '$2b$12$C97Cv2tYyEhH8pVxgX8k7eciB3oUMwot/COnkOCe5CNAtWMsrqV7y', #Password: root123
+    FALSE
+),
+(
+    2, #verify if ID for Purdue in universities table is indeed 2
+    'Purdue Admin1',
+    'admin1@purdue.edu',
+    '$2b$12$IeD327.9yus32ygJTuij3.ECGNsv10WezOuY9PicOmQrncMfY3EUG', #Password: proot
+    TRUE
+),
+(
+    2, #verify if ID for Purdue in universities table is indeed 2
+    'Purdue Admin2',
+    'admin2@purdue.edu',
+    '$2b$12$WjMb31NlOTAzZWuGUoBkCegiAtZvTXpSYZF80lHxY9h5LXQAhcaPO', #Password: proot
+    TRUE
+),
+(
+    2, #verify if ID for Purdue in universities table is indeed 2
+    'Purdue Student1',
+    'stud1@purdue.edu',
+    '$2b$12$3SepamsciX6PUbScXuOjF.O/3YhZGmhi3AG3m9FAZmapDcDg3GOky', #Password: proot123
+    FALSE
+),
+(
+    2, #verify if ID for Purdue in universities table is indeed 2
+    'Purdue Student2',
+    'stud2@purdue.edu',
+    '$2b$12$cSIKhDZDsRgPGyWUQbbzYe1nWiNos0B8peXiQE5YTwbqJ65WjmLNi', #Password: proot123
+    FALSE
+),
+;
 
 CREATE TABLE chatbots (
     id INT NOT NULL PRIMARY KEY,
