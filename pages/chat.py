@@ -44,8 +44,8 @@ if st.session_state.user['is_admin']:
                 st.error("Missing field 'Training Text'", icon="🚨")
         else:
             if training_text != fetched_training_text:
-                admin.train_attempt(training_text, bot_id=st.session_state.user['university_id'], bot_name=bot_name)
                 st.success("Configuration saved. Chatbot training in progress...")
+                admin.train_attempt(training_text, bot_id=st.session_state.user['university_id'], bot_name=bot_name)
                 admin.mark_train_attempt_completed(st.session_state.user['university_id'])
                 st.success("Chatbot training complete!!.")
             else:
