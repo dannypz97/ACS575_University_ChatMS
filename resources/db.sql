@@ -95,8 +95,7 @@ INSERT INTO users(university_id, name, email, password, is_admin) VALUES (
     'stud2@purdue.edu',
     '$2b$12$cSIKhDZDsRgPGyWUQbbzYe1nWiNos0B8peXiQE5YTwbqJ65WjmLNi', #Password: proot123
     FALSE
-),
-;
+);
 
 CREATE TABLE chatbots (
     id INT NOT NULL PRIMARY KEY,
