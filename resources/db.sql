@@ -105,7 +105,7 @@ CREATE TABLE chatbots (
     is_trained BOOLEAN NOT NULL DEFAULT FALSE,
     create_timestamp TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
     update_timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-    FOREIGN KEY (id) REFERENCES universities(id)
+    FOREIGN KEY (id) REFERENCES universities(id) #Clearly 1-1 mapping between universities and chatbots
 );
 
 CREATE TABLE user_chats (

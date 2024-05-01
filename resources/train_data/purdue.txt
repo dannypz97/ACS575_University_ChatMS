@@ -1,0 +1,555 @@
+About Purdue University West Lafeyette: For over 150 years, generations of Boilermakers have left their mark in small steps and giant leaps. Today, we continue in those footsteps as we bring our best and learn to build a better world, together.
+
+
+
+It is Top 10 Public University in the US.
+
+West Lafayette Campus: Purdue University's oldest and largest campus with approximately 40,000 students is located in West Lafayette, Indiana.
+
+About the CS department: -
+
+Founded in 1962, the Department of Computer Science was created to be an innovative base of knowledge in the emerging field of computing as the first degree-awarding program in the United States. The department continues to advance the computer science industry through research. Graduates of the program are able to solve complex and challenging problems in many fields. The increasing centrality of computer science in academic disciplines and society, and new research activities - centered around data science, artificial intelligence, programming languages, theoretical computer science, machine learning, and cybersecurity - are the future focus of the department.
+
+Our broad department covers a wide range of areas in computer science. Our faculty members are experts in many different areas, and you’re sure to find a faculty member whose research interests match yours. Research areas include:
+
+
+
+Bioinformatics and computational biology
+
+Computational science and engineering
+
+Distributed systems
+
+Databases and data mining
+
+Graphics and visualization
+
+Information security and assurance
+
+Machine learning and information retrieval
+
+Networking and operating systems
+
+Software engineering
+
+Programming languages and compilers
+
+Theory of computing and algorithms
+
+
+
+The opportunity for graduate funding at Purdue is very high.
+
+
+
+We provide four years of financial support to most incoming doctoral students. Your advisor may have funding for research assistants. Or, if you’re seeking a chance to teach and work with students, look no further. Our needs for teaching assistants have doubled in the past few years. We hire more than 100 teaching assistants each year.
+
+Our group members study and devise core machine learning and artificial intelligence methods to solve complex problems throughout science, engineering, and medicine. Our goal is to enhance human lives and bring advanced technologies to augment human capabilities. This research involves both deployments in real-world applications as well as development of fundamental theories in computer science, mathematics, and statistics.
+
+Computer Architecture research studies the interplay between computer hardware and software, particularly at the intersection of programming languages, compilers, operating systems, and security.
+
+The Distributed Systems (DS) group focuses on designing distributed systems that are scalable, dependable, and secure, behaving according to their specification in spite of errors, misconfigurations, or being subjected to attacks. Areas of focus include virtualization technologies with emphasis on developing advanced technologies for computer malware defense and cloud computing.
+
+Networking & OS group: This area works on fundamental problems at different layers of the network protocol stack – from the medium access control layer up to the application layer – using theoretical models, simulation, emulation, and extensive testbed experimentation to develop and evaluate proposed solutions which leverage techniques from game theory, information theory, complexity theory, optimization, and cryptography.
+
+The software engineering area conducts research on applying advanced program analyses towards problems related to fault isolation and various kinds of bug detection, including those related to race conditions in concurrent programs, and specification inference for large-scale software systems.
+
+
+
+Masters Course and Grade Requirements: -
+
+Up to six semester-hours of credit for graduate courses taken at other institutions may be transferred with the approval of the Graduate Committee and the Graduate School. The grades must be A or B or the equivalent. Application for transfer is made when the plan of study is submitted for approval. Students may ask the Graduate Committee to accept equivalent graduate courses taken at other institutions in lieu of at most two of the above courses. Requests must be submitted to the CS grad office within the first six weeks of the fall or spring semester.
+
+Courses used to fulfill the requirements for other degrees (at Purdue or elsewhere) are not eligible for use on master's plans of study. The sole exception is that courses used for a doctoral degree may be used on a master's plan of study provided the doctoral plan of study does not include any course used for any other master's degree.
+
+
+
+For the Non-Thesis Option
+
+Three core courses: CS 50200 or 56500, CS 50300 or 53600, and CS 58000 or 58800. These represent the areas Systems I, Systems II, and Algorithms in the Areas and Courses table.
+
+Four other courses from the table. These must include courses from at least two areas other than Systems I, Systems II, and Algorithms.
+
+Three more Level 5000 or 6000 elective courses (not necessarily in Computer Science), at most two of which may be individual study courses.
+
+For each individual study course, students must identify a CS faculty member willing to offer the course and submit a detailed one page course description (PDF) approved and signed by the CS instructor to the graduate office (csgrad@purdue.edu) before the course can be approved on a plan of study. Students registering for an individual study course are reminded that the course must be titled (30 characters or less) and taken in regular grade mode (not P/NP) if the course is planned for inclusion on a plan of study.
+
+For the Thesis Option
+
+Three core courses: CS 50200 or 56500, CS 50300 or 53600, and CS 58000 or 58800. These represent the areas Systems I, Systems II, and Algorithms in the Areas and Courses table.
+
+Four other courses from the table. These must include courses from at least two areas other than Systems I, Systems II, and Algorithms.
+
+One more Level 5000 or 6000 elective course (not necessarily in Computer Science), which may not be an individual study course. Follow this link for a listing of elective courses normally approved by the Graduate Committee: Approved Courses List
+
+At least six credit hours of CS 69800, Research. M.S. Thesis. The thesis must be presented in an oral defense before the advisory committee.
+
+For the Professional Master’s in Information and Cybersecurity
+
+Two foundational courses: CS 50010 and CS 50011
+
+Two core courses: CS 52600 and CS 55500
+
+Four focus courses chosen from these Professional Master’s in Information and Cybersecurity offerings: CS 52300, CS 52700, CS 52800, CS 52900, and CS 55600
+
+Two more Level 5000 or 6000 elective courses (not necessarily in Computer Science), which may be individual study courses.
+
+For each individual study course, students must identify a CS faculty member willing to offer the course and submit a detailed one page course description (PDF) approved and signed by the CS instructor to the graduate office (csgrad@purdue.edu) before the course can be approved on a plan of study. Students registering for an individual study course are reminded that the course must be titled (30 characters or less) and taken in regular grade mode (not P/NP) if the course is planned for inclusion on a plan of study.
+
+
+
+For the Professional Master’s in Information and Cybersecurity
+
+Two foundational courses: CS 50010 and CS 50011
+
+Two core courses: CS 52600 and CS 55500
+
+Four focus courses chosen from these Professional Master’s in Information and Cybersecurity offerings: CS 52300, CS 52700, CS 52800, CS 52900, and CS 55600
+
+Two more Level 5000 or 6000 elective courses (not necessarily in Computer Science), which may be individual study courses.
+
+For each individual study course, students must identify a CS faculty member willing to offer the course and submit a detailed one page course description (PDF) approved and signed by the CS instructor to the graduate office (csgrad@purdue.edu) before the course can be approved on a plan of study. Students registering for an individual study course are reminded that the course must be titled (30 characters or less) and taken in regular grade mode (not P/NP) if the course is planned for inclusion on a plan of study.
+
+For students in a non-thesis master's program, the role of the advisory committee will be fulfilled by the chair of the department's graduate committee.
+
+
+
+For students in a thesis master's program, the advisory committee consists of the supervisor of the research plus two or more other faculty members agreed upon by the student and the supervisor. Qualified faculty from other departments may serve on the committee but may not form a majority of it.
+
+
+
+The following courses are normally approved by the graduate committee:
+
+
+
+Purdue Computer Science courses:
+
+
+
+CS courses at the 500 level or above, when taught by a faculty member whose primary appointment is in the CS department (except CS 50100, 50010, 50011, 50023, 50024, 50025 and certain CS 59000, 59200 and 59300 courses).
+
+Other Purdue courses (not approved on doctoral plans of study under the 2016 rule set):
+
+
+
+BIOL 517: Molecular Biology: Proteins -- if taken for the Computational Life Sciences concentration
+
+BIOL 541: Molecular Genetics of Bacteria -- if taken for the Computational Life Sciences concentration
+
+CHM 696: Quantum Information and Computation
+
+ECE 51012: Electromechanics
+
+ECE 547: Introduction to Computer Communication Networks -- must also include CS 536 on plan
+
+ECE 563: Programming Parallel Machines
+
+ECE 565: Computer Architecture
+
+ECE 570: Artificial Intelligence
+
+ECE 600: Random Variables and Signals
+
+ECE 629: Introduction to Neural Networks
+
+ECE 637: Digital Image Processing
+
+ECE 661: Computer Vision
+
+ECE 673: Dist Computer System
+
+ECE 60872: Fault-Tolerant Computer System Design (previously ECE 695B)
+
+IE 535: Linear Programming
+
+IE 538: Nonlinear Optimization Algorithms and Models
+
+IE 547: Programming Languages for Artificial Intelligence (ECE 570)
+
+IE 580: Systems Simulation
+
+IE 635: Theoretical Foundation of Optimization
+
+IE 674: Computer And Communication Methods For Production Control I
+
+LING 593: Natural Language Knowledge Representation
+
+MA 511:  Linear Algebra with Applications -- if taken at Purdue as a prerequisite for CS 515
+
+MA 514: Numerical Analysis -- when cross-listed with CS
+
+MA 518: Advanced Discrete Mathematics
+
+MA 520: Boundary Value Problems of Differential Equations
+
+MA 523: Introduction to Partial Differential Equations
+
+MA 525: Introduction to Complex Analysis
+
+MA 532: Elements of Stochastic Processes (aka STAT 532)
+
+MA 575: Linear Graph Theory
+
+MA 585: Mathematical Logic I
+
+MA 586: Mathematical Logic II
+
+MA 598: Elliptic Curves & Cryptography
+
+MA 598: Mathematical Aspects of Neural Networks
+
+MA 611: Methods of Applied Mathematics I
+
+MA 615: Numerical Methods For Partial Differential Equations I -- when cross-listed with CS
+
+ME 535: Product and Process Design -- when cross-listed with CS
+
+STAT 519: Introduction to Probability
+
+STAT 522: Sampling and Survey Techniques
+
+STAT 526 Advanced Statistical Methodology
+
+STAT 528: Introduction to Mathematical Statistics
+
+STAT 529: Bayesian Applied Decision Theory
+
+STAT 529K: Bayesian Applied Decision Theory
+
+STAT 532: Elements of Stochastic Processes (aka MA 532)
+
+STAT 546: Computational Statistics (was STAT 598D)
+
+STAT 598A: Introduction to Machine Learning
+
+STAT 598SK: Probabilistic Graphical Models
+
+STAT 695A.F11: Bayesian Statistical Modeling
+
+STAT 695C: Bayesian Statistics
+
+STAT 695T: Data Visualization
+
+STAT 695W: Bayesian Nonparametrics
+
+Other courses, including courses at other institutions, may be approved on an individual basis. For more info.
+
+
+
+The following courses are generally NOT approved by the graduate committee:
+
+
+
+Courses cross-listed as graduate and undergraduate courses, or offered for both graduate and undergraduate credit, unless primarily taken by graduate students
+
+The following Purdue courses:
+
+
+
+CNIT 58100-CFM: Cyberforensics of Malware
+
+CPT 581F: Introduction to Computer Forensics (meets with 499F)
+
+ECE 608: Computational Models and Methods
+
+MA 511: Linear Algebra with Applications
+
+STAT 501: Experimental Statistics I
+
+STAT 502: Experimental Statistics II
+
+STAT 511: Statistical Methods
+
+STAT 512: Applied Regression Analysis
+
+STAT 545: Introduction to Computational Statistics
+
+STAT 695: D&R Big Data High Comp Cmplxty
+
+
+
+Some Graduate CS courses: -
+
+
+
+CS 50023 - Data Engineering I: Credit Hours: 1.00. The course introduces students to the fundamentals of Data Engineering with a focus on tools and computational techniques to gather, construct, manipulate, summarize, and visualize data sets as a means to extract knowledge from the underlying data. Python and Python libraries are used. Completion of the course will allow learners to perform basic data analysis on data sets. Experience in Python Programming and Linear Algebra is required. The course also prepares learners for additional instruction in the courses Data Engineering II and Foundations of Decision Making.
+
+Learning Outcomes: 1. Identify key file types (TXT, CSV, HTML) and their characteristics. Using Python, read data in these formats. 2. Create and execute Python scripts to parse, select, transform, summarize, and visualize data. 3. Explain how to identify and fill in missing values in data values. 4. Create informative visualizations from given data and recognize the key qualities of good visualizations. 5. Apply Pandas functions to slice, dice, and summarize datasets. 6. Apply the process of sampling data and sample probabilistically. 7. Demonstrate how to transform and construct features (e.g., standardization, distances). 8. Compute summary statistics from data (e.g., covariance, correlation). 9. Explain how to solve simple data analysis problems.
+
+
+
+
+
+CS 50200 - Compiling And Programming Systems: Credit Hours: 3.00. Basic principles of compilers and compiler design; control of translation, loading, and execution; symbolic coding systems; lexical and syntactic analysis, design and operation of assemblers and macro processors; design of interpretive systems. Students are expected to complete a large programming project as part of the course.
+
+Learning Outcomes: 1. Deeper understanding of the syntactic rules and the functionality of modern programming languages, as well as the use of the compiler for enhancing program quality. 2. Opportunity to practice the implementation of certain key components in the compiler front-end and back-end.
+
+CS 50500 - Distributed Systems: Credit Hours: 3.00. Foundations for building reliable distributed systems, including failure and system models, and basic communication and agreement problems; crash failures, recovery, partition, Byzantine failures; asynchronous systems, failure detectors, communication channels, wireless and sensor networks; software clocks, causality, and cuts. Examples of problems include reliable broadcast consensus, leader election, group communication, and replication. Permission of department required.
+
+
+
+CS 54100 - Database Systems: Credit Hours: 3.00. Fundamentals for the logical design of database systems. The entity-relationship model, semantic model, relational model, hierarchical model, network model. Implementations of the models. Design theory for relational databases. Design of query languages and the use of semantics for query optimization. Design and verification of integrity assertions, and security. Introduction to intelligent query processing and database machines.
+
+
+
+
+
+CS 58700 - Foundations Of Deep Learning: Credit Hours: 3.00. This course provides an integrated view of the key concepts of deep learning (representation learning) methods. This course focuses on teaching principles and methods needed to design and deploy novel deep learning models, emphasizing the relationship between traditional statistical models, causality, invariant theory, and the algorithmic challenges of designing and deploying deep learning models in real-world applications. This course has both a theoretical and coding component. The course assumes familiarity with coding in the language used for state-of-the-art deep learning libraries, linear algebra, probability theory, and statistical machine learning.
+
+Learning Outcomes: 1. Understand statistical Foundations of Deep Learning. 2. Understand feedforward Networks. 3. Understand stochastic optimization of neural network models. 4. Understand Bayesian Neural Networks. 5. Understand invariant & Equivariant Representation Learning. 6. Understand task-invariant representations. 7. Understand meta Learning. 8. Understand multi-task Learning. 9. Understand transfer Learning. 10. Understand implicit generative models (probabilistic models without explicit likelihoods). 11. Understand variational Auto-Encoders. 12. Understand generative Adversarial Networks. 13. Understand stable Diffusion Generative models. 14. Understand how to evaluate the performance of neural networks, as well as formulate and test hypotheses. 15. Understand how theory and algorithmic elements interact to impact performance.
+
+
+
+
+
+CS 57700 - Natural Language Processing: Credit Hours: 3.00. This course will cover the key concepts and methods used in modern Natural Language Processing (NLP). Throughout the course several core NLP tasks, such as sentiment analysis, information extraction, syntactic and semantic analysis, will be discussed. The course will emphasize machine-learning and data-driven algorithms and techniques, and will compare several different approaches to these problems in terms of their performance, supervision effort and computational complexity. Prerequisites: A background in linear algebra, calculus, statistics and probability, and completion of CS 57800 or equivalent are highly recommended. Strong programming skills in any modem language (Python, Java, C++) are required.
+
+Learning Outcomes: 1. Describe and analyze the key challenges in dealing with natural language data and other fundamental areas of NLP. 2. Analyze and implement the key algorithms and techniques used in NLP. 3. Identify algorithmic techniques that can be applied to new problems and evaluate other possible solutions. 4. Conduct experiments using proper methodology for training and testing NLP systems using data. 5. Critically review current research work in the NLP field.
+
+
+
+CS 57800 - Statistical Machine Learning: Credit Hours: 3.00. This introductory course will cover many concepts, models, and algorithms in machine learning. Topics include classical supervised learning (e.g., regression and classification), unsupervised learning (e.g., principle component analysis and K-means), and recent development in the machine learning field such as variational Bayes, expectation propagation, and Gaussian processes. While this course will give students the basic ideas and intuition behind modern machine learning methods, the underlying theme in the course is probabilistic inference.
+
+Learning Outcomes: 1. Learn the theory and key algorithms used in machine learning. 2. Get hands-on machine learning experience by implementing several algorithms, applying them to datasets and analyzing their performance. 3. Understand how to use machine learning methods to their research projects, formulate the learning tasks and match them with appropriate solutions.
+
+
+
+
+
+CS 57300 - Data Mining: Credit Hours: 3.00. (CSCI 57300) Data Mining has emerged at the confluence of artificial intelligence, statistics, and databases as a technique for automatically discovering summary knowledge in large datasets. This course introduces students to the process and main techniques in data mining, including classification, clustering, and pattern mining approaches. Data mining systems and applications are also covered, along with selected topics in current research. Offered in alternate years.
+
+Learning Outcomes: 1. Learn Data mining techniques. 2. Learn how to summarize large data sets. 3. Learn current research topics.
+
+
+
+
+
+CS 52500 - Parallel Computing: Credit Hours: 3.00. Parallel computing for science and engineering applications: parallel programming and performance evaluation, parallel libraries and problem-solving environments, models of parallel computing and run-time support systems, and selected applications..
+
+Changhee Jung: -
+
+Associate Professor of Computer Science
+
+
+
+Joined department: Fall 2019
+
+Education
+
+PhD, Georgia Institute of Technology, Computer Science (2013)
+
+
+
+Professor Jung's research interests are in compilers and computer architecture with a focus on performance, reliability, and security. Prior to joining Purdue, he was an assistant professor at Virginia Tech which he joined after completing his PhD at Georgia Tech in 2013. From 2005 to 2008, he was a member of the research staff at ETRI (Electronics and Telecommunications Research Institute). During the three summers between 2010 and 2012, he worked as a software engineering intern with the compiler optimization team at Google. He is honored to receive an NSF CAREER Award in 2018.
+
+
+
+Selected Publications
+
+Jongouk Choi, Qingrui Liu, and Changhee Jung "CoSpec: Compiler Directed Speculative Intermittent Computation", IEEE/ACM International Symposium on Microarchitecture (MICRO), Columbus, Ohio, October 2019
+
+
+
+Tong Zhang, Wenbo Shen, Dongyoon Lee, Changhee Jung, Ahmed Azab, and Ruowen Wang "PeX: A Permission Check Analysis Framework for Linux Kernel", The 28th USENIX Security Symposium (USENIX Security), Santa Clara, California, August 2019
+
+
+
+Tong Zhang, Dongyoon Lee, and Changhee Jung, "BOGO: Buy Spatial Memory Safety, Get Temporal Memory Safety (Almost) Free", International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Providence, Rhode Island, April 2019
+
+
+
+Qingrui Liu, Joseph Izraelevitz, Se Kwon Lee, Michael L. Scott, Sam H. Noh, and Changhee Jung, "iDO: Compiler-Directed Failure Atomicity for Nonvolatile Memory", IEEE/ACM International Symposium on Microarchitecture (MICRO), Fukuoka, Japan, October 2018
+
+
+
+Yongle Zhang
+
+Assistant Professor of Computer Science
+
+
+
+Joined department: Spring 2021
+
+Education
+
+Ph.D., University of Toronto, Computer Engineering (2020)
+
+Master, Institute of Computing Technology, Chinese Academy of Sciences, Computer Engineering (2013)
+
+Bachelor, Shandong University, Computer Science (2010)
+
+
+
+Sam Silvestro, Hongyu Liu, Tong Zhang, Changhee Jung, Dongyoon Lee, and Tongping Liu. "Sampler: PMU-based Sampling to Detect Memory Errors Latent in Production Software", IEEE/ACM International Symposium on Microarchitecture (MICRO), Fukuoka, Japan, October 2018
+
+
+
+Xavier Tricoche
+
+Assistant Professor of Computer Science
+
+
+
+Joined department: Fall 2007
+
+Education
+
+PhD, University of Kaiserslautern, Germany, Computer Science (2002)
+
+MSc, Universite Joseph Fourier (Grenoble, France), Applied Mathematics (1998)
+
+Engineer's Degree, ENSIMAG (Grenoble, France), Computer Science (1998)
+
+
+
+Dr. Xavier Tricoche is a member of the Computer Graphics and Visualization group. His research aims to create new methods for scalable processing and interactive visual analysis of large datasets. His main topics of interest include fluid dynamics, granular materials, orbital mechanics, structural analysis of vector and tensor fields, topology and dynamical systems, medical image analysis, high-performance computing, and computer graphics. Dr. Tricoche received his PhD in Computer Science from the University of Kaiserslautern, Germany in 2002. He holds a MSc in Applied Mathematics from the University of Grenoble in France and an Engineering Degree in Computer Science from ENSIMAG. Dr. Tricoche has previously taught at the University of Utah and the University of Kaiserslautern.
+
+
+
+Selected Publications
+
+X. Tricoche, C. Garth, A. Sanderson, "Visualization of Topological Structures in Area Preserving Maps", IEEE Transactions on Visualization and Computer Graphics, 17(12), pp. 1765-1774, 2011.
+
+
+
+S. Barakat, N. Andrysco, X. Tricoche, "Efficient Extraction of High-Quality Crease Surfaces for Visual Analysis", Computer Graphics Forum, 30(3), pp. 961-970, 2011.
+
+
+
+A. Sanderson, G. Chen, X. Tricoche, D. Pugmire, S. Kruger, J. Breslau, "Analysis of Recurrent Patterns in Toroidal Magnetic Fields", IEEE Transactions on Visualization and Computer Graphics, 16(6), pp. 1431-1440, 2010.
+
+
+
+Vernon J. Rego
+
+Professor of Computer Science
+
+
+
+Joined department: 1985
+
+Education
+
+MS, Michigan State University, Computer Science (1982)
+
+PhD, Michigan State University, Computer Science (1985)
+
+MSc, Birla Institute of Technology and Science, Mathematics (1979)
+
+
+
+Vernon Rego directs research in the Parallel Computation and Simulation Laboratory (PacsLab) in Purdue's computer sciences department. His research interests include software systems for high-performance distributed computation, network protocols, threads systems, parallel stochastic simulation, computational probability and performance, and software engineering. His current projects include the ACES software architecture for multi-threaded distributed computing and parallel simulation, including the EcliPSe replicated simulation system (for which he was awarded an IEEE/Gordon Bell Prize), the ParaSol process-oriented distributed simulation system, the Ariadne threads system, and the CLAM protocol suite. He was also awarded a German Research Council Award for Computer Networking Research. He has been an invited researcher at the Oak Ridge National Laboratories and an ACM National Lecturer. He is an editor of the IEEE Transactions on Computers and an advisory board member of The DoD Advanced Distributed Simulation Research Consortium.
+
+
+
+aymond A. Yeh
+
+Assistant Professor of Computer Science
+
+
+
+Joined department: Fall 2022
+
+Education
+
+Ph.D., University of Illinois Urbana-Champaign, Electrical Engineering (2021)
+
+
+
+Raymond A. Yeh is an Assistant Professor in the Department of Computer Science at Purdue University. Prior to joining Purdue, he was a Research Assistant Professor at Toyota Technological Institute at Chicago (TTIC). He received his PhD in 2021 from the University of Illinois at Urbana-Champaign (UIUC). Previously, he completed his B.S. and M.S. degree in Electrical Engineering from UIUC as well. He is a recipient of the Google PhD Fellowship, the Mavis Future Faculty Fellowship, and the Henry Ford II Scholarship.
+
+
+
+His research is at the intersection of machine learning and computer vision. Specifically, his research focuses on developing algorithms to learn effective and explainable models ranging across several domains including audio, vision, language, and multi-agent systems.
+
+
+
+Please refer to his webpage for research projects and Google scholar for full list of publications.
+
+
+
+Anuran Makur
+
+Assistant Professor of Computer Science
+
+Assistant Professor of Electrical and Computer Engineering
+
+
+
+Joined department: Fall 2021
+
+Education
+
+Sc.D., Massachusetts Institute of Technology, Electrical Engineering and Computer Science (2019)
+
+S.M., Massachusetts Institute of Technology, Electrical Engineering and Computer Science (2015)
+
+B.S., University of California, Berkeley, Electrical Engineering and Computer Sciences (2013)
+
+
+
+Anuran Makur is an Assistant Professor in the Department of Computer Science and the Elmore Family School of Electrical and Computer Engineering at Purdue University, West Lafayette, IN, USA. He received his B.S. degree with highest honors (summa cum laude) from the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley (UC Berkeley), CA, USA, in 2013, and his S.M. and Sc.D. degrees from the Department of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology (MIT), Cambridge, MA, USA, in 2015 and 2019, respectively. Then, he was a postdoctoral researcher at the Laboratory for Information and Decision Systems and the Institute for Data, Systems, and Society at MIT from 2019 to 2021. His research interests include theoretical statistics and machine learning, information theory, and other areas in applied probability. He was a recipient of the Arthur M. Hopkin Award from UC Berkeley in 2013, the Jacobs Presidential Fellowship from MIT in 2013, the Ernst A. Guillemin Master's Thesis Award from MIT in 2015, the Jin Au Kong Doctoral Thesis Award from MIT in 2020, the Thomas M. Cover Dissertation Award from the IEEE Information Theory Society in 2021, and the CAREER Award from the National Science Foundation in 2023.
+
+
+
+Selected Publications
+
+W. Lu and A. Makur, "Permutation capacity region of adder multiple-access channels," IEEE Transactions on Information Theory, January 2024.
+
+
+
+A. Makur, M. Mertzanidis, A. Psomas, and A. Terzoglou, "On the robustness of mechanism design under total variation distance" in Proceedings of the Advances in Neural Information Processing Systems 36 (NeurIPS), New Orleans, LA, USA, December 10-16 2023, pp. 1-24.
+
+
+
+A. Jadbabaie, A. Makur, and D. Shah, "Federated optimization of smooth loss functions," IEEE Transactions on Information Theory, vol. 69, no. 12, pp. 7836-7866, December 2023.
+
+
+
+A. Makur, E. Mossel, and Y. Polyanskiy, "Broadcasting on two-dimensional regular grids," IEEE Transactions on Information Theory, vol. 68, no. 10, pp. 6297-6334, October 2022.
+
+
+
+A. Jadbabaie, A. Makur, and D. Shah, "Estimation of skill distribution from a tournament," in Proceedings of the Advances in Neural Information Processing Systems 33 (NeurIPS), Vancouver, BC, Canada, December 6-12 2020, pp. 8418-8429.
+
+
+
+Tianyi Zhang
+
+Assistant Professor of Computer Science
+
+
+
+Joined department: Fall 2021
+
+Education
+
+PhD, University of California, Los Angeles, Computer Science (2019)
+
+Bachelor's, Huazhong University of Science and Technology, Computer Science (2013)
+
+
+
+Tianyi Zhang is a Tenure-Track Assistant Professor in Computer Science at Purdue University. Prior to that, he was a Postdoctoral Fellow at Harvard University. He obtained his Ph.D. from University of California, Los Angeles in 2019 and his Bachelor's degree from Huazhong University of Science and Technology in 2013. His research interests include Software Engineering, Human-Computer Interaction, and Artificial Intelligence. In particular, his research focuses on building interactive systems that improve programming productivity and reduce coding barriers using AI-based technologies.
+
+
+
+Selected Publications
+
+Interpretable Program Synthesis. Tianyi Zhang, Zhiyang Chen, Yuanli Zhu, Priyan Vaithilingam, Xinyu Wang, Elena Glassman (CHI 2021)
+
+
+
+Visualizing Examples of Deep Neural Networks at Scale. Litao Yan, Elena Glassman, Tianyi Zhang (CHI 2021)
+
+
+
+Interactive Program Synthesis by Augmented Examples. Tianyi Zhang, London Lowmanstone, Xinyu Wang, Elena Glassman (UIST 2020)
+
+
+
+Analyzing and Supporting Adaptation of Online Code Examples. Tianyi Zhang, Di Yang, Cristina Lopes, Miryung Kim (ICSE 2019)
+
+
+
+Are Code Examples on an Online Q&A Forum Reliable? A Study of API Misuse on Stack Overflow. Tianyi Zhang, Ganesha Upadhyaya, Anastasia Reinhardt, Hridesh Rajan, Miryung Kim (ICSE 2018)
