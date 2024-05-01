@@ -7,10 +7,6 @@ INTRO_MSG = """
 Hi! I'm the University Virtual Assistant. I can help you find or connect to useful resources. How can I assist you?
 """
 
-INTRO_AGAIN_MSG = """
-Hello again! I'm the University Virtual Assistant. I can help you find or connect to useful resources. How can I assist you?
-"""
-
 DEFAULT_BOT_NAME = 'University Chatbot'
 
 if not session.is_logged_in():
@@ -59,16 +55,15 @@ if 'bot_config' in st.session_state and st.session_state.bot_config['is_trained'
 
     if "messages" not in st.session_state or len(st.session_state.messages) == 0:
         st.session_state.messages = []
-        intro = INTRO_MSG
 
         chat_logs = chat.get_chats(st.session_state.user)
 
         if chat_logs and len(chat_logs) > 0:
-            intro = INTRO_AGAIN_MSG
             st.session_state.messages = chat_logs
+        else:
+            st.session_state.messages.append({"role": chat.ASSISTANT_ROLE, "content": INTRO_MSG})
 
-        st.session_state.messages.append({"role": chat.ASSISTANT_ROLE, "content": intro})
-        chat.log_chat(intro, user=st.session_state.user, source=chat.ASSISTANT_ROLE, commit=True)
+        # chat.log_chat(INTRO_MSG, user=st.session_state.user, source=chat.ASSISTANT_ROLE, commit=True)
 
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
